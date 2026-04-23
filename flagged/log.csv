@@ -1,0 +1,3 @@
+Age,Gender,Education Level,Income,Country,Purchase Frequency,output,flag,username,timestamp
+23,Male,High School,50000,Spain,0.7,,,,2026-04-23 23:10:33.123193
+23,Male,High School,23000,Spain,0.5,Predicted Customer Spending: $4484.62,,,2026-04-23 23:13:45.191135
